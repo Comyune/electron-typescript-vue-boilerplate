@@ -1,6 +1,7 @@
 {
-  "name": "seewhy",
+  "name": "electron-typescript-vue-boilerplate",
   "version": "0.1.0",
+  "author": "SebTheCat.com (Comyune Technologies Ltd)",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
